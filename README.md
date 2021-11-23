@@ -14,7 +14,6 @@ A Pycharm project. All the files and their usages are as follows:
 
 |Name|Description|
 |----|----|
-|data|Raw data collected by Python crawler|
 |stopwords|Chinese stopwords used by Python package "jieba"|
 |deep_preprocess.py|Data cleaning after the primary data process|
 |main.py|The crawler|
@@ -26,3 +25,9 @@ A Pycharm project. All the files and their usages are as follows:
 A Matlab project. All the files and their usages are as follows:
 |Name|Description|
 |----|----|
+|preprocessRMRB.m|Preprocess function|
+|rmrb.mlx|Data preprocess|
+|rmrb_wordscleaning.mlx|Data preprocess|
+|rmrb_LDA_NUM.mlx|To choose a time-perplexity-balance topic numbers|
+|rmrb_LDA.m|LDA model|
+|rmrb_time_content.mlx|Time-based word clouds|
